@@ -1,0 +1,546 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1670835625894080, "dur":1311, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835625895403, "dur":80, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1670835625895498, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1670835625895515, "dur":771, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1670835625896332, "dur":522, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835625896855, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716535, "dur":317, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716852, "dur":50, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716902, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716906, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716913, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716915, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716923, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716924, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626716937, "dur":69, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717006, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717013, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717014, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717017, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717018, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717023, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717024, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717027, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717028, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717032, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717032, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717037, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717038, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717041, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717042, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717046, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717046, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717050, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717050, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717054, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717055, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717058, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717059, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717063, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717074, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626717134, "dur":1503, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1670835625896471, "dur":390, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835625896862, "dur":3349, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835625900221, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670835625900228, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835625901380, "dur":432, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670835625901816, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670835625901861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835625902073, "dur":5394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670835625907469, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1670835625907587, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835625907962, "dur":288005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1670835626196016, "dur":55439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626251460, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835626251468, "dur":34949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626286480, "dur":49434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626335917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835626335922, "dur":4306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626340267, "dur":92446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626432716, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835626432722, "dur":1151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626433909, "dur":117751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626551665, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670835626551672, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670835626553164, "dur":163374, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835625896543, "dur":322, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835625896865, "dur":3352, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835625900222, "dur":9317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1670835625909541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835625909545, "dur":2008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1670835625911594, "dur":33512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark.exe" }}
+,{ "pid":12345, "tid":2, "ts":1670835625945112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835625945117, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark.exe" }}
+,{ "pid":12345, "tid":2, "ts":1670835625946733, "dur":29375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835625976111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835625976116, "dur":8920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835625985075, "dur":19284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626004363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626004369, "dur":3490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626007942, "dur":62467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626070413, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626070420, "dur":9124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626079587, "dur":15647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626095237, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626095245, "dur":6235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626101517, "dur":18817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626120338, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626120345, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626123618, "dur":17529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626141150, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626141156, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626143338, "dur":41642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626184986, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626184992, "dur":16339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626201369, "dur":20413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626221788, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626221798, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626224920, "dur":83183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626308107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626308113, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626309171, "dur":329275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626638450, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670835626638455, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670835626640946, "dur":75600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625896606, "dur":263, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625896869, "dur":3345, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625900221, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1670835625900386, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625902303, "dur":7852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1670835625910193, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1670835625910279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625910282, "dur":5170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1670835625915494, "dur":18785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835625934286, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625934741, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835625936218, "dur":16323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835625952547, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625952614, "dur":15609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835625968267, "dur":21149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835625989423, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835625989432, "dur":15124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626004594, "dur":15736, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626020333, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626020339, "dur":3761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626024140, "dur":36423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626060634, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626060640, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626062822, "dur":17009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626079834, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626079841, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626082107, "dur":39454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626121566, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626121572, "dur":2495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626124103, "dur":14776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626138884, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626138892, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626140974, "dur":58446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626199424, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626199430, "dur":9633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626209102, "dur":126316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626335422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626335426, "dur":4383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626339848, "dur":157932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626497786, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626497793, "dur":5512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626503347, "dur":1463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Autodesk.Fbx.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626504813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626504817, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Autodesk.Fbx.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670835626506118, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":3, "ts":1670835626506232, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626506698, "dur":1445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":3, "ts":1670835626508184, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1670835626508218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626508251, "dur":6154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1670835626514441, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1670835626514562, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626514567, "dur":19298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1670835626533907, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1670835626533947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626533950, "dur":2043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1670835626536035, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1670835626536075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670835626536079, "dur":4971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1670835626541106, "dur":175433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625896636, "dur":237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625896873, "dur":3349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625900224, "dur":8184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1670835625908411, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625908481, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1670835625909447, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1670835625909560, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625909563, "dur":10983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1670835625920591, "dur":36572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835625957168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625957175, "dur":11953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835625969167, "dur":15608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835625984778, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835625984783, "dur":8380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835625993210, "dur":49592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626042806, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626042812, "dur":1763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626044612, "dur":30439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626075056, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626075064, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626076860, "dur":26065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626102930, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626102938, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626104020, "dur":49417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626153443, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626153451, "dur":13926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626167957, "dur":17470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626185431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626185436, "dur":17072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626202551, "dur":57305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626259862, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626259872, "dur":40108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626300021, "dur":35315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626335341, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626335349, "dur":5728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626341113, "dur":77518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626418634, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626418640, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626420026, "dur":84579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626504609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626504616, "dur":1451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626506102, "dur":789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626506894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626506899, "dur":1445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670835626508386, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1670835626508425, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626508428, "dur":25253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1670835626533719, "dur":961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1670835626534683, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670835626534688, "dur":5533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1670835626540268, "dur":176264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835625896755, "dur":121, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835625896876, "dur":3353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835625900230, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1670835625900458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835625909559, "dur":4271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1670835625913869, "dur":60746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835625974620, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835625974628, "dur":9346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835625984010, "dur":83010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626067025, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626067032, "dur":2206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626069274, "dur":35494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626104771, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626104778, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626105985, "dur":22666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626128656, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626128664, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626130200, "dur":19914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626150119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626150126, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626152263, "dur":149404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626301671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626301679, "dur":11275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626312998, "dur":193996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626506997, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626507002, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670835626509835, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1670835626509870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626509874, "dur":23915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1670835626533825, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1670835626533861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626533865, "dur":3419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1670835626537322, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1670835626537448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670835626537453, "dur":2826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1670835626540315, "dur":176216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835625896778, "dur":103, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835625896881, "dur":3334, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835625900222, "dur":9111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1670835625909335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835625909392, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1670835625910558, "dur":165684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626076247, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626076343, "dur":18700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626095102, "dur":14917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626110047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626110055, "dur":2247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626112344, "dur":31658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626144005, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626144010, "dur":4893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626148951, "dur":19863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626168817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626168823, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626170627, "dur":53669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626224301, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626224308, "dur":39883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626264234, "dur":84085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626348322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626348326, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626349748, "dur":103324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626453078, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626453086, "dur":2737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626456232, "dur":257739, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626713974, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670835626713979, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670835626716507, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1670835626716509, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835625896807, "dur":77, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835625896884, "dur":3344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835625900229, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1670835625900488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835625914772, "dur":286233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1670835626201057, "dur":79261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626280323, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835626280331, "dur":1373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626281754, "dur":775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626282532, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835626282542, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626283643, "dur":63608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626347256, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835626347264, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626348980, "dur":121507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626470492, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835626470499, "dur":1888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626472435, "dur":703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/FbxBuildTestAssets.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626473141, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835626473146, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/FbxBuildTestAssets.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626475016, "dur":134232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626609252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670835626609257, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670835626610770, "dur":105774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835625896828, "dur":58, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835625896887, "dur":3326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835625900221, "dur":35240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1670835625935467, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835625936497, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1670835625937585, "dur":122498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626060088, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626060094, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626061440, "dur":34333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626095777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626095782, "dur":5033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626100860, "dur":38429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626139292, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626139300, "dur":1673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626141005, "dur":47347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626188356, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626188360, "dur":20581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626208984, "dur":96977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626305965, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626305972, "dur":1725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626307734, "dur":126420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626434157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626434163, "dur":1112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626435309, "dur":110593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626545908, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670835626545916, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670835626547647, "dur":168898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835625896894, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835625896895, "dur":3337, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835625900232, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1670835625900498, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835625915355, "dur":10273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1670835625925668, "dur":36754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835625962428, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835625962435, "dur":7469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835625969938, "dur":62847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626032793, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835626032800, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626033885, "dur":85594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626119484, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835626119491, "dur":3251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626122783, "dur":103299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626226086, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835626226092, "dur":36466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626262610, "dur":73580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626336193, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835626336197, "dur":31511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626367744, "dur":255041, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626622788, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670835626622793, "dur":1900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670835626624718, "dur":91828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835625896927, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835625896928, "dur":3302, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835625900232, "dur":8792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1670835625909027, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835625909115, "dur":1368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1670835625910519, "dur":47171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835625957693, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835625958024, "dur":11363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835625969443, "dur":15152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835625984599, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835625984605, "dur":3237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835625987885, "dur":32259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626020149, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626020156, "dur":3598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626023790, "dur":100640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626124433, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626124439, "dur":12788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626137316, "dur":17281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626154603, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626154611, "dur":1790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626156434, "dur":20276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626176810, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626176819, "dur":4646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626181502, "dur":17767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626199275, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626199284, "dur":10073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626209394, "dur":26257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626235657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626235664, "dur":27541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626263247, "dur":23233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626286483, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626286490, "dur":4753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626291282, "dur":775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626292061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626292067, "dur":11118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626303222, "dur":765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626303991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626303997, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626304995, "dur":666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Formats.Fbx.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626305665, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626305670, "dur":4521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Formats.Fbx.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626310229, "dur":90628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626400863, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626400871, "dur":14735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626415644, "dur":172011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626587658, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670835626587664, "dur":1927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670835626589616, "dur":126925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835625896973, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835625896973, "dur":3251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835625900228, "dur":9057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1670835625909287, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835625909292, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1670835625911035, "dur":520947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670835626431988, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835626431994, "dur":18052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670835626450136, "dur":83231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670835626533374, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835626533381, "dur":1793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670835626535218, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1670835626535261, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670835626535264, "dur":3070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1670835626538377, "dur":178159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835625897000, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835625897000, "dur":3237, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835625900237, "dur":9253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1670835625909492, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835625909497, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1670835625911456, "dur":109102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1670835626020561, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626020564, "dur":5250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1670835626025857, "dur":15270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626041133, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626041141, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626042501, "dur":44803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626087309, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626087316, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626088634, "dur":66641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626155279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626155295, "dur":15240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626170577, "dur":17683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626188266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626188273, "dur":14648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626202963, "dur":217860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626420826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626420832, "dur":2613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626423483, "dur":115186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626538672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670835626538676, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670835626541126, "dur":175407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835625897024, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835625897024, "dur":3199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835625900223, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1670835625900458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835625905712, "dur":10285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1670835625916089, "dur":66460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835625982553, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835625982559, "dur":10846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835625993456, "dur":174993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626168454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835626168461, "dur":2738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626171235, "dur":30943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626202184, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835626202193, "dur":7120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626209353, "dur":250616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626459974, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835626459981, "dur":2334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626462348, "dur":197545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626659897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670835626659902, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670835626661059, "dur":55476, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625897119, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625897120, "dur":3101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625900223, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1670835625900474, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625910018, "dur":3736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1670835625913801, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1670835625913934, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625914348, "dur":22388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":14, "ts":1670835625936774, "dur":17099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835625953877, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625953883, "dur":15985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835625969906, "dur":15782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835625985691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835625985696, "dur":18307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626004043, "dur":191924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626195969, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835626195977, "dur":9378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626205398, "dur":108239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626313641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835626313647, "dur":22983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626336668, "dur":201602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626538273, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670835626538278, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670835626540741, "dur":175808, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670835625897140, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670835625897140, "dur":3078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670835625900221, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1670835625900476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670835625914451, "dur":281520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1670835626196017, "dur":152014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670835626348035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670835626348039, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670835626350110, "dur":223683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670835626573797, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670835626573803, "dur":988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670835626574819, "dur":141718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625897190, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625897190, "dur":3026, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625900221, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1670835625900447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625905172, "dur":8810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1670835625914029, "dur":20387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835625934419, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625934841, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835625936274, "dur":39320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835625975646, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625975684, "dur":6654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835625982381, "dur":15622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835625998008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835625998015, "dur":9540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626007618, "dur":43290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626050913, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626050920, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626052896, "dur":18299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626071198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626071203, "dur":7541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626078787, "dur":14807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626093601, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626093609, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626095120, "dur":48029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626143176, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626143184, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626145057, "dur":43407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626188467, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626188471, "dur":26985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626215498, "dur":120575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626336076, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626336080, "dur":4353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626340471, "dur":77645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626418121, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626418128, "dur":2332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626420496, "dur":131584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Skatepark_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626552082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670835626552086, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Skatepark_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670835626553689, "dur":162851, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670835626720647, "dur":2091, "ph":"X", "name": "ProfilerWriteOutput" }
+,
